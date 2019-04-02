@@ -1,0 +1,30 @@
+{
+    "url": "localhost/API_PARAM_PATH/19",
+    "response": "{\"numb_letter\":\"\\u0434\\u0435\\u0432\\u044f\\u0442\\u043d\\u0430\\u0434\\u0446\\u0430\\u0442\\u044c \"}",
+    "method": "GET"
+}
+{
+    "url": "localhost/API_PARAM_REQUEST/?a=1&b=4&c=-1",
+    "response": "{\"x1\":-4.2360679774998,\"x2\":0.23606797749979}",
+    "method": "GET"
+}
+{
+    "url": "localhost/API_PARAM_REQUEST/?date=12.12.2028",
+    "response": "{\"week_day\":\"\\u0412\\u0442\\u043e\\u0440\\u043d\\u0438\\u043a\"}",
+    "method": "GET"
+}
+{
+    "url": "localhost/API_PARAM_PATH/fibonachchi/3",
+    "response": "{\"fib_result\":2}",
+    "method": "GET"
+}
+{
+    "url": "localhost/API_PARAM_PATH/fibonachchi/3",
+    "response": "{\"fib_result\":2}",
+    "method": "GET"
+}
+{
+    "url": "localhost/API_PARAM_PATH/region/72",
+    "response": "{\"region_name\":\"\\u0422\\u044e\\u043c\\u0435\\u043d\\u044c\"}",
+    "method": "GET"
+}
